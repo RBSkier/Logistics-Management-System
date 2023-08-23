@@ -1,0 +1,10 @@
+com\bobo\service\IBasicService.class
+com\bobo\service\ICustomerService.class
+com\bobo\service\impl\UserServiceImpl.class
+com\bobo\service\impl\BasicDataServiceImpl.class
+com\bobo\service\IUserService.class
+com\bobo\service\IOrderService.class
+com\bobo\service\IRoleService.class
+com\bobo\service\impl\RoleServiceImpl.class
+com\bobo\service\impl\OrderServiceImpl.class
+com\bobo\service\impl\CustomerServiceImpl.class

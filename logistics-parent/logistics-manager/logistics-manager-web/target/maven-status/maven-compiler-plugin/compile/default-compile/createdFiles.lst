@@ -1,0 +1,8 @@
+com\bobo\controller\PageController.class
+com\bobo\controller\CustomerController.class
+com\bobo\controller\LoginController.class
+com\bobo\controller\UserController.class
+com\bobo\controller\RoleController.class
+com\bobo\realm\MyRealm.class
+com\bobo\controller\BasicController.class
+com\bobo\controller\OrderController.class

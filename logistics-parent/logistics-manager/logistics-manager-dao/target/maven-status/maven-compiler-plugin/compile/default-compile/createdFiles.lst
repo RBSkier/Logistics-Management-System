@@ -1,0 +1,8 @@
+com\bobo\mapper\RoleMapper.class
+com\bobo\mapper\BasicDataMapper.class
+com\bobo\mapper\UserRoleMapper.class
+com\bobo\mapper\MenuMapper.class
+com\bobo\mapper\CustomerMapper.class
+com\bobo\mapper\OrderMapper.class
+com\bobo\mapper\UserMapper.class
+com\bobo\mapper\OrderDetailMapper.class
